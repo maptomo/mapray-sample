@@ -40,7 +40,6 @@ HTML Code
 
 ### JavaScript and CSS Customization
 #### Upload JavaScript for PC
-- jQuery ex.https://js.cybozu.com/jquery/3.4.1/jquery.min.js
 - kintone-ui-component.min.js [Download](https://github.com/kintone/kintone-ui-component/tree/master/dist)
 - maprayJS ex.https://resource.mapray.com/mapray-js/v0.7.0/mapray.js
 - sample.js
