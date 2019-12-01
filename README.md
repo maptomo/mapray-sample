@@ -50,9 +50,16 @@ HTML Code
 
 *Upload JavaScript File for Mobile Devices, Upload CSS File for Mobile Devices is same too.
 
+## Service
+- [Mapray](https://mapray.com)
+- [kintone](https://www.kintone.com/)
+- [kintone UI Component](https://kintone.github.io/kintone-ui-component/)
+
+
 ## License
 MIT License
 
-Produce by Maptomo.
+Produce by [Maptomo](https://maptomo.com).
+
 https://maptomo.com/mapray-kintone
 
