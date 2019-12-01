@@ -12,6 +12,10 @@
 |---|---|
 |![](mapray-sakurajima.png)|![](mapray-aso.png)|
 
+## Mapray setting
+Document [JP](https://mapray.com/documents/overview/gettingstarted/index.html)
+Need to Access Token.
+
 ## kintone application setting
 
 ### Fields 
@@ -43,11 +47,16 @@ HTML Code
 #### Upload JavaScript for PC
 - kintone-ui-component.min.js [Download](https://github.com/kintone/kintone-ui-component/tree/master/dist)
 - maprayJS ex.https://resource.mapray.com/mapray-js/v0.7.0/mapray.js
-- sample.js
+- sample.js [Download](sample.js)
+
+Setting Mapray Access Token for "sample.js"
+```sample.js
+  var accessToken = '<your access token here>';
+```
 
 #### Upload CSS File for PC
 - kintone-ui-component.min.css [Download](https://github.com/kintone/kintone-ui-component/tree/master/dist)
-- style.css
+- style.css [Download](style.css)
 
 *Upload JavaScript File for Mobile Devices, Upload CSS File for Mobile Devices is same too.
 
