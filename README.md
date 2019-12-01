@@ -55,3 +55,5 @@ HTML Code
 MIT License
 
 Produce by Maptomo.
+https://maptomo.com/mapray-kintone
+
