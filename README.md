@@ -14,7 +14,8 @@
 
 ## kintone application setting
 
-### Fields
+### Fields 
+Document [EN](https://developer.kintone.io/hc/en-us/articles/212494818) [JP](https://developer.cybozu.io/hc/ja/articles/202166330)
 
 |Field Code|Field Type|Deafault Value|Option|
 |---|---|---:|---|
