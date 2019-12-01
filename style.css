@@ -1,0 +1,10 @@
+div#mapray-container {
+  display: flex;
+  height: 500px;
+}
+
+div#mapray-detail {
+  display: flex;
+  height: 300px;
+  width: 500px;
+}
