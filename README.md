@@ -45,7 +45,7 @@ HTML Code
 
 ### JavaScript and CSS Customization
 #### Upload JavaScript for PC
-- kintone-ui-component.min.js [Download](https://github.com/kintone/kintone-ui-component/tree/master/dist)
+- kintone-ui-component.min.js [Download](https://github.com/maptomo/kintone-ui-component/tree/master/dist)
 - maprayJS ex.https://resource.mapray.com/mapray-js/v0.7.0/mapray.js
 - sample.js [Download](sample.js)
 
@@ -55,7 +55,7 @@ Setting Mapray Access Token for "sample.js"
 ```
 
 #### Upload CSS File for PC
-- kintone-ui-component.min.css [Download](https://github.com/kintone/kintone-ui-component/tree/master/dist)
+- kintone-ui-component.min.css [Download](https://github.com/maptomo/kintone-ui-component/tree/master/dist)
 - style.css [Download](style.css)
 
 *Upload JavaScript File for Mobile Devices, Upload CSS File for Mobile Devices is same too.
@@ -63,7 +63,7 @@ Setting Mapray Access Token for "sample.js"
 ## Service
 - [Mapray](https://mapray.com)
 - [kintone](https://www.kintone.com/)
-- [kintone UI Component](https://kintone.github.io/kintone-ui-component/)
+- [kintone UI Component(Fork)](https://github.com/maptomo/kintone-ui-component/)
 
 
 ## License
