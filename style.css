@@ -1,10 +1,15 @@
-div#mapray-container {
-  display: flex;
-  height: 500px;
+div.blockleft {
+  float: left;
+  width: 65%;
 }
 
-div#mapray-detail {
-  display: flex;
-  height: 300px;
-  width: 500px;
+div#mapray-index {
+ display: flex;
+ height: 600px;
+}
+
+div#user-js-mapray-detail {
+ display: flex;
+ height: 500px;
+ width: 800px;
 }
