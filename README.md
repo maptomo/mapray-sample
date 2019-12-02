@@ -36,10 +36,10 @@ Document [EN](https://developer.kintone.io/hc/en-us/articles/212494818) [JP](htt
 HTML Code
 ```html
 <div class="blockleft">
-  <div id="mapray-container"></div>
+  <div id="mapray-index"></div>
 </div>
 <div class="blockdata">
-  <div id="mapray-data"></div>
+  <div id="mapray-list"></div>
 </div>
 ```
 
