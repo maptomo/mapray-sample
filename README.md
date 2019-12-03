@@ -5,8 +5,8 @@
 - Go to detail page from record list
 - Change the value on the record edit page, it will be in the map
 
-### Custom view from Mt.Kaimon , Lake Ikeda
-<img src="mapray-ikeda.png" alt="Standard portal" title="" width="90%">
+### Custom view from Mt.Fuji
+<img src="mapray-index.png" alt="Standard portal" title="" width="95%">
 
 |Mt.Sakurajima|Mt.Aso|
 |---|---|
