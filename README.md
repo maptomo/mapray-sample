@@ -65,6 +65,9 @@ Setting Mapray Access Token for "sample.js"
 - [kintone](https://www.kintone.com/)
 - [kintone UI Component(Fork)](https://github.com/maptomo/kintone-ui-component/)
 
+## Sample data
+[CSV](Mapray_sample.csv)
+
 
 ## License
 MIT License
